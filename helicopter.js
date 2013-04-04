@@ -614,7 +614,7 @@ var HELICOPTER = (function() {
         ctx.fillStyle = Heli.Color.HOME_TEXT;
         ctx.font = "58px silkscreenbold";
 
-        var text = "White-now";
+        var text = "ZHONG HUA";
         var textWidth = ctx.measureText(text).width,
         x = (screen.width() - textWidth) / 2,
         y = screen.height() / 3;
